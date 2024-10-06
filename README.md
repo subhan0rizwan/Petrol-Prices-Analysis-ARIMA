@@ -18,8 +18,6 @@ The project is structured into several stages, each focusing on a crucial aspect
 
 ## Data Collection and Preprocessing: 
 
-![image](https://github.com/user-attachments/assets/553584f8-d538-4369-957b-2d34865f0157)
-
 Gathering historical petrol price data, cleaning the dataset, and preparing it for analysis.
 
 ![image](https://github.com/user-attachments/assets/2d152337-614d-466b-83ee-126c3bb969aa)
@@ -29,8 +27,6 @@ Gathering historical petrol price data, cleaning the dataset, and preparing it f
 ![download](https://github.com/user-attachments/assets/d88659ba-7c74-4d06-8be1-388813b19747)
 
 Understanding the underlying patterns and characteristics of the data through visualizations and statistical analysis.
-
-![download (1)](https://github.com/user-attachments/assets/c441041e-ed23-497b-964d-e1edf9741223)
 
 ## Model Building: 
 Constructing and fine-tuning the ARIMA and Prophet model to best capture the dynamics of petrol prices.
@@ -51,13 +47,9 @@ Using the trained ARIMA model and Prophet Model to make future predictions and i
 
 ![download (3)](https://github.com/user-attachments/assets/a3ff9988-6a42-4e13-b48b-748b256981a5)
 
-![Forecast2](https://github.com/user-attachments/assets/6a6e0f2c-9a00-4617-9cbe-3887e9c0b94d)
-
-# Conclusion and Future Work: 
+# Conclusion: 
 
 Here are the conclusive predictions on the said dataset.
-
-![Conclusion](https://github.com/user-attachments/assets/2a9168e8-7439-48d3-971b-6b1d95ffdfc4)
 
 ![Conclusion2](https://github.com/user-attachments/assets/2e94771a-4947-4b8d-92bb-63257a26a667)
 
