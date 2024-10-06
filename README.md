@@ -12,17 +12,57 @@ The ARIMA model is a powerful tool in time series analysis, known for its flexib
 
 ![image](https://github.com/user-attachments/assets/b65a54a7-9667-4d09-9af9-e49e06dbe35e)
 
+# Structure of the Project
 
-Structure of the Project
 The project is structured into several stages, each focusing on a crucial aspect of the model development process:
 
-Data Collection and Preprocessing: Gathering historical petrol price data, cleaning the dataset, and preparing it for analysis.
-Exploratory Data Analysis (EDA): Understanding the underlying patterns and characteristics of the data through visualizations and statistical analysis.
-ARIMA Model Building: Constructing and fine-tuning the ARIMA model to best capture the dynamics of petrol prices.
-Model Evaluation: Assessing the performance of the model using various metrics and validating its predictive accuracy.
-Forecasting: Using the trained ARIMA model to make future predictions and interpreting the results.
-Conclusion and Future Work: Summarizing the findings and discussing potential improvements and future research directions.
-Significance
+## Data Collection and Preprocessing: 
+
+![image](https://github.com/user-attachments/assets/553584f8-d538-4369-957b-2d34865f0157)
+
+Gathering historical petrol price data, cleaning the dataset, and preparing it for analysis.
+
+![image](https://github.com/user-attachments/assets/2d152337-614d-466b-83ee-126c3bb969aa)
+
+## Exploratory Data Analysis (EDA): 
+
+![download](https://github.com/user-attachments/assets/d88659ba-7c74-4d06-8be1-388813b19747)
+
+Understanding the underlying patterns and characteristics of the data through visualizations and statistical analysis.
+
+![download (1)](https://github.com/user-attachments/assets/c441041e-ed23-497b-964d-e1edf9741223)
+
+## Model Building: 
+Constructing and fine-tuning the ARIMA and Prophet model to best capture the dynamics of petrol prices.
+
+![Model1](https://github.com/user-attachments/assets/9ce79de3-350e-4741-8397-3abd19ea5c96)
+
+## Model Evaluation: 
+
+![download (2)](https://github.com/user-attachments/assets/2878babb-12d0-483f-b23d-98a5dc02be71)
+
+Assessing the performance of the model using various metrics and validating its predictive accuracy.
+
+![image](https://github.com/user-attachments/assets/0e6a8a1d-7f47-44cb-bc3e-95420dc51958)
+
+## Forecasting: 
+
+Using the trained ARIMA model and Prophet Model to make future predictions and interpreting the results.
+
+![download (3)](https://github.com/user-attachments/assets/a3ff9988-6a42-4e13-b48b-748b256981a5)
+
+![Forecast2](https://github.com/user-attachments/assets/6a6e0f2c-9a00-4617-9cbe-3887e9c0b94d)
+
+# Conclusion and Future Work: 
+
+Here are the conclusive predictions on the said dataset.
+
+![Conclusion](https://github.com/user-attachments/assets/2a9168e8-7439-48d3-971b-6b1d95ffdfc4)
+
+![Conclusion2](https://github.com/user-attachments/assets/2e94771a-4947-4b8d-92bb-63257a26a667)
+
+## Significance
+
 The ability to accurately predict petrol prices holds significant economic and strategic value. For businesses, it can lead to better budgeting and cost management. For policymakers, it provides a basis for regulatory decisions and economic planning. For consumers, it offers insights that can inform personal financial decisions.
 
 Through this project, we aim to demonstrate the practical application of the ARIMA model in time series forecasting and highlight its potential to deliver meaningful predictions in the context of petrol prices.
