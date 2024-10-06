@@ -1,11 +1,17 @@
-Introduction
+# Introduction
+
 In the contemporary world, fuel prices significantly impact both the global economy and the daily lives of individuals. As a critical component of transportation and logistics, fluctuations in petrol prices can lead to widespread economic repercussions. Accurate predictions of petrol prices are, therefore, invaluable for government agencies, businesses, and consumers.
 
-Project Objective
+## Project Objective:
+
 This project aims to develop a robust and reliable model for predicting petrol prices using the ARIMA (AutoRegressive Integrated Moving Average) methodology. By leveraging historical data, this project seeks to forecast future petrol prices, thus providing stakeholders with insights that can aid in decision-making and strategic planning.
 
-Why ARIMA?
-The ARIMA model is a powerful tool in time series analysis, known for its flexibility and effectiveness in capturing the temporal dependencies within data. Its ability to handle different types of data trends and seasonalities makes it a suitable choice for forecasting petrol prices, which are influenced by a myriad of factors, including geopolitical events, market demand, and seasonal variations.
+## Why ARIMA?
+
+The ARIMA model is a powerful tool in time series analysis, known for its flexibility and effectiveness in capturing the temporal dependencies within data. Its ability to handle different types of data trends and seasonalities makes it a suitable choice for forecasting petrol prices, which are influenced by many factors, including geopolitical events, market demand, and seasonal variations.
+
+
+
 
 Structure of the Project
 The project is structured into several stages, each focusing on a crucial aspect of the model development process:
